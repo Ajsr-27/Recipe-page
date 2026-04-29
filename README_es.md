@@ -1,121 +1,83 @@
-# Frontend Mentor - Página de receta
+# 🥚 Omelette Recipe Page
 
-![Vista previa del diseño para el reto de la página de
-receta](./preview.jpg)
+Una página web responsive de receta de omelette desarrollada como desafío de **Frontend Mentor**, utilizando **React** y **Tailwind CSS** para construir una interfaz moderna, limpia y adaptable a distintos dispositivos.
 
-## ¡Bienvenido! 👋
+---
 
-Gracias por revisar este reto de programación front-end.
+## 📸 Descripción del Proyecto
 
-[Frontend Mentor](https://www.frontendmentor.io) te ayuda a mejorar tus
-habilidades de programación creando proyectos realistas.
+Este proyecto consiste en la implementación de una página de receta siguiendo un diseño proporcionado por Frontend Mentor.
+El objetivo principal fue practicar maquetación moderna, diseño responsive y buenas prácticas en el desarrollo frontend.
 
-**Para realizar este reto, necesitas un conocimiento básico de HTML y
-CSS.**
+La página muestra:
 
-## El reto
+* Imagen principal de la receta
+* Descripción del plato
+* Tiempo de preparación
+* Lista de ingredientes
+* Pasos de preparación
+* Información nutricional
 
-Tu desafío es construir esta página de receta y lograr que se vea lo más
-similar posible al diseño.
+---
 
-Puedes usar cualquier herramienta que prefieras para completar el reto.
-Si hay algo que quieras practicar, siéntete libre de hacerlo.
+## 🚀 Tecnologías Utilizadas
 
-### ¿Quieres ayuda con el reto?
+* ⚛️ React
+* 🎨 Tailwind CSS
+* 🧩 HTML5 semántico
+* 📱 Diseño Responsive (Mobile First)
+* ⚡ Vite
 
-[Únete a nuestra comunidad](https://www.frontendmentor.io/community) y
-haz preguntas en el canal **#help**.
+---
 
-## Dónde encontrar todo
+## 🎯 Objetivos del Desafío
 
-Tu tarea es construir el proyecto basándote en los diseños dentro de la
-carpeta `/design`. Encontrarás versiones para móvil y escritorio.
+* Convertir un diseño estático en una aplicación web funcional
+* Practicar Flexbox y Grid con Tailwind
+* Aplicar estilos reutilizables mediante utility classes
+* Mejorar la organización de componentes en React
+* Implementar buenas prácticas de estructura de proyecto
 
-Los diseños están en formato JPG estático. Esto significa que deberás
-usar tu propio criterio para estilos como `font-size`, `padding` y
-`margin`.
+---
 
-Si deseas el archivo de diseño en Figma para ganar experiencia con
-herramientas profesionales y crear proyectos más precisos más rápido,
-puedes [suscribirte como miembro
-PRO](https://www.frontendmentor.io/pro).
+## 🧠 Aprendizajes
 
-Todos los recursos necesarios para este proyecto están en la carpeta
-`/assets`. Las imágenes ya están exportadas para el tamaño correcto de
-pantalla y optimizadas.
+Durante el desarrollo del proyecto se trabajó en:
 
-También incluimos archivos de fuentes variables y estáticas necesarias
-para este proyecto. Puedes enlazarlas desde Google Fonts o usar los
-archivos locales para alojarlas tú mismo. Ten en cuenta que eliminamos
-los pesos de fuente que no se utilizan en este proyecto.
+* Uso de componentes reutilizables en React
+* Personalización de tipografías
+* Manejo de listas estilizadas con Tailwind
+* Creación de separadores visuales
+* Diseño adaptable a diferentes tamaños de pantalla
+* Optimización del layout siguiendo un enfoque mobile-first
 
-También hay un archivo `style-guide.md` que contiene la información
-necesaria, como la paleta de colores y las fuentes.
+---
 
-## Uso de asistentes de programación con IA
 
-Incluimos dos archivos para ayudarte si utilizas asistentes de
-programación con IA (como Claude, GitHub Copilot, Cursor, etc.) mientras
-trabajas en este reto:
+## 🌐 Deploy
 
--   `AGENTS.md` - Contiene instrucciones detalladas para asistentes de
-    IA sobre cómo ayudarte con este reto.
--   `CLAUDE.md` - Archivo que dirige herramientas basadas en Claude
-    hacia las instrucciones de AGENTS.md.
+El proyecto puede visualizarse online aquí:
 
-**Cómo utilizarlos:** ¡No necesitas hacer nada! Estos archivos son
-detectados automáticamente por la mayoría de herramientas de IA.
+👉 **Live Site URL:** *(agregar link de GitHub Pages o Vercel)*
 
-**Nota:** Estos archivos están diseñados para ayudarte a *aprender*, no
-para hacer el trabajo por ti.
+---
 
-## Construyendo tu proyecto
+## 📖 Desafío Original
 
-Puedes usar cualquier flujo de trabajo con el que te sientas cómodo. A
-continuación se sugiere un proceso:
+Challenge de **Frontend Mentor**:
 
-1.  Inicializa tu proyecto como repositorio público en
-    [GitHub](https://github.com/).
-2.  Configura tu repositorio para publicar el código en una dirección
-    web.
-3.  Revisa los diseños para planificar cómo abordarás el proyecto.
-4.  Antes de agregar estilos, estructura el contenido con HTML.
-5.  Escribe los estilos base del proyecto.
-6.  Comienza agregando estilos desde la parte superior hacia abajo.
+https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm
 
-## Publicar tu proyecto
+---
 
-Algunas opciones recomendadas para alojar tu proyecto gratis:
+## 👨‍💻 Autor
 
--   [GitHub Pages](https://pages.github.com/)
--   [Vercel](https://vercel.com/)
--   [Netlify](https://www.netlify.com/)
+Desarrollado por **Augusto Sánchez**
 
-También puedes consultar más opciones aquí:
-https://www.frontendmentor.io/guides/hosting-your-solution
+* GitHub: https://github.com/Ajsr-27
 
-## Crear un `README.md` personalizado
+---
 
-Recomendamos reemplazar este `README.md` por uno personalizado usando la
-plantilla [`README-template.md`](./README-template.md).
+## ⭐ Agradecimientos
 
-## Enviar tu solución
-
-Envía tu solución en la plataforma siguiendo la guía:
-https://www.frontendmentor.io/guides/how-to-submit-solutions
-
-## Compartir tu solución
-
-Puedes compartirla en:
-
-1.  Comunidad: https://www.frontendmentor.io/community
-2.  X (Twitter): https://x.com/frontendmentor
-3.  LinkedIn: https://www.linkedin.com/company/frontend-mentor/
-4.  Blogs como https://dev.to/, https://hashnode.com/ y
-    https://community.codenewbie.org/
-
-## ¿Tienes feedback?
-
-Puedes enviarlo a hi\[at\]frontendmentor\[dot\]io.
-
-**¡Diviértete construyendo!** 🚀
+Gracias a Frontend Mentor por proporcionar desafíos prácticos que permiten mejorar habilidades reales de desarrollo frontend.

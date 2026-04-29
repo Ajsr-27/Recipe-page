@@ -31,4 +31,24 @@ body {
   margin: 0;
   padding: 0;
   background-color:#ecd8c4 ;
+  font-family: outfit;
+}
+h1,h2{
+  font-family: young-serif;
+  color: var(---Stone-900);
+}
+
+h2{
+  color: var(---Brown-800);
+}
+
+p{
+  color: var(---Stone-600);
+}
+ul{
+  color: var(---Stone-600);
+}
+
+ol{
+  color: var(---Stone-600);
 }
